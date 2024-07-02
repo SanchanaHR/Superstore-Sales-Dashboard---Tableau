@@ -7,7 +7,7 @@ The objective is to build a dashboard- an overview of sales metrics and trends t
 
 # Data Analysis
 The key elements captured on the dashboard are: 
-- KPIs - Summary of total ales, Profits and Quantity sold for Current Year and Previous Year
+- KPIs - Summary of total Sales, Profits and Quantity sold for Current Year and Previous Year
 - Sales Trends- presenting the data for each KPI on a monthly basis for Current Year and Previous Year
 - Product Sub-Category comparison- Sales performance by different product sub-categories for current and previous year
 - Weekly Trends for sales and profit - presenting weekly sales and profit data for current year , average weeekly values , highlighting that are above and below the average
